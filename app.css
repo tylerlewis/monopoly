@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 48px;
+  border-bottom: 2px solid black;
+}
+
+.body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+}
+
+.gameboard {
+  margin: 0;
+  padding: 0;
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  border-spacing: 0;
+}
+
+tr {
+  margin: 0;
+  padding: 0;
+}
+
+td {
+  margin: 0;
+  padding: 0;
+}
+
+.upperLeft, .upperRight, .lowerLeft, .lowerRight {
+  width: 90px;
+  height: 90px;
+}
+
+.upperLeft {
+  border-right: 1px solid black;
+}
+
+.upperRight {
+  border-bottom: 1px solid black;
+}
+
+.lowerRight {
+  border-left: 1px solid black;
+}
+
+.lowerLeft {
+  border-top: 1px solid black;
+}
+
+.top {
+  width: 45px;
+  height: 90px;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.right {
+  width: 90px;
+  height: 45px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.bottom {
+  width: 45px;
+  height: 90px;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.left {
+  width: 90px;
+  height: 45px;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+}
+
+/*.corner1, .corner2, .corner3, .corner4 {
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  height: 15%;
+}
+
+.corner1 {
+  float: left;
+  border-right: 1px solid black;
+}
+
+.corner2 {
+  float: left;
+  border-bottom: 1px solid black;
+}
+
+.corner3 {
+  border-left: 1px solid black;
+}
+
+.corner4 {
+  border-top: 1px solid black;
+}
+
+.section1, .section2, .section3, .section4 {
+  margin: 0;
+  padding: 0;
+}
+
+.section1, .section4 {
+  float: left;
+  width: 7.5%;
+  height: 15%;
+}
+
+.section2, .section3 {
+  width: 15%;
+  height: 7.5%;
+}
+
+.section1 {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.section2 {
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.section2.space1 {
+  margin-top: 15%;
+}
+
+.section3 {
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+.section4 {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
+
+*/
